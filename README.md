@@ -6,10 +6,7 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
- <img src="https://intro.rustbridge.com/img/ferris.gif" width="500">
+ <div width="500"></div><img src="https://intro.rustbridge.com/img/ferris.gif" width="500">
  <a href="https://dev.to/dephraiim" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dephraiim" height="20" width="20" /></a>
 
 - 🌱 I’m currently learning on React Native
