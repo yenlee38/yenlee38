@@ -1,5 +1,5 @@
 ### Hi there, I'm Le Thi Ngoc Yen 👋
-  <img src="https://little.kylerconway.com/images/golang-what.gif" width="300"><img src="https://intro.rustbridge.com/img/ferris.gif" width="300">
+ <img src="https://intro.rustbridge.com/img/ferris.gif" width="100%">
 
  <a href="https://dev.to/dephraiim" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dephraiim" height="20" width="20" /></a>
 
